@@ -1,0 +1,1 @@
+ball_speed = [BALL_SPEED, BALL_SPEED]
